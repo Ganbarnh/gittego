@@ -12,6 +12,7 @@ namespace ConsoleApp19
         {
             Console.WriteLine();
             Console.Write("A+b");
+            Console.WriteLine("Hello from dev");
         }
     }
 }
