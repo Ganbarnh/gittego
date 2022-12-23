@@ -11,6 +11,7 @@ namespace ConsoleApp19
         static void Main(string[] args)
         {
             Console.WriteLine();
+            Console.Write("A+b");
         }
     }
 }
